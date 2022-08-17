@@ -2,3 +2,5 @@ helloworld
 python
 java学习
 c++学习
+python学习
+sql学习
